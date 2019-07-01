@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9c205c5-c041-4c77-b2de-04800f913fff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/collectionsSample/collections.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="19">
+                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Mapping</find>
+      <find>acquire</find>
+      <find>ThreadPoolExecutor</find>
+      <find>queue</find>
+      <find>dequeue</find>
+      <find>de</find>
+      <find>Condition</find>
+      <find>_work_queue</find>
+      <find>loop</find>
+      <find>_loop</find>
+      <find>_work_queue.get</find>
+      <find>main</find>
+      <find>T</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pythonBase/datastruct/genericIterator.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/typeclassobject.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/textwith.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/testcontextlib.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/sequnce_test.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/list_gen.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/setdict.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter06/setdict.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter07/what_is_var.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter07/delete.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter07/chapter8.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter8/getattr_setattr.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter8/property.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter8/new_init.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter8/metaclasss.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/iterableiterator/iterableiterator.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/iterableiterator/gennic_func.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/iterableiterator/how_gen_work.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/iterableiterator/read_big_file.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter10/HttpsocketTcp.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/process_queue.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter12/aysn_io.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter12/coroutine_test.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter12/yield_freom.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter12/yield_from.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter12/gen_to_coruntine.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter12/async_await.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter13/async_io1.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter13/asyncio_http.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter01/deepcopy.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter10/ServiceSocketSample.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter10/clientSocket.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/threadprocess.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/threadQueue.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter10/socket_http.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/python_GIL_01.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/python_thread.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_Queue_03.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_Queue_test_04.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_sync.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_condition.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_semaphore.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/concurent_future.py" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/README.md" />
+        <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/process_test.py" />
+        <option value="$PROJECT_DIR$/pythonBase/pythonfile/README.md" />
+        <option value="$PROJECT_DIR$/pythonBase/pythonfile/file_01.py" />
+        <option value="$PROJECT_DIR$/pythonBase/PythonTime/pythontimes.py" />
+        <option value="$PROJECT_DIR$/pythonBase/collectionsSample/collections.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1420" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonStudyExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudyExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonBase/advancePyton/chapter8" />
+      <recent name="$PROJECT_DIR$/pythonBase/advancePyton/chapter06" />
+      <recent name="$PROJECT_DIR$/pythonBase/datastruct/classpackage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pythontimes">
+    <configuration name="concurent_future" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/concurent_future.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/pythonfile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/pythonfile/file_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/process_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pythontimes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/PythonTime" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/PythonTime/pythontimes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thread_semaphore" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_semaphore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pythontimes" />
+        <item itemvalue="Python.file_01" />
+        <item itemvalue="Python.process_test" />
+        <item itemvalue="Python.concurent_future" />
+        <item itemvalue="Python.thread_semaphore" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9c205c5-c041-4c77-b2de-04800f913fff" name="Default Changelist" comment="" />
+      <created>1559224412260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559224412260</updated>
+      <workItem from="1559224413382" duration="49943000" />
+      <workItem from="1561639489189" duration="5367000" />
+      <workItem from="1561772964065" duration="16605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="71915000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1420" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.1981004" visible="true" weight="0.20833333" />
+      <window_info id="Structure" order="2" sideWeight="0.8018996" side_tool="true" weight="0.1851585" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.46132973" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32971507" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.48575306" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.40569878" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Remote Host" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.1981004" visible="true" weight="0.20833333" />
+      <window_info id="Structure" order="2" sideWeight="0.8018996" side_tool="true" weight="0.1851585" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.46132973" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32971507" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.48575306" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.40569878" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Remote Host" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonBase/advancePyton/chapter8/metaclasss.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonBase/advancePyton/chapter8/metaclasss.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonBase/advancePyton/chapter8/metaclasss.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythonBase/advancePyton/chapter8/metaclasss.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonStudyExample$what_is_var.coverage" NAME="what_is_var Coverage Results" MODIFIED="1560437621644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter07" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$gennic_func.coverage" NAME="gennic_func Coverage Results" MODIFIED="1560569270405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/iterableiterator" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$thread_Queue_03.coverage" NAME="thread_Queue_03 Coverage Results" MODIFIED="1561778244061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$sequnce_test.coverage" NAME="sequnce_test Coverage Results" MODIFIED="1560180142265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$socket_http.coverage" NAME="socket_http Coverage Results" MODIFIED="1561773433167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$BaseStruct.coverage" NAME="BaseStruct Coverage Results" MODIFIED="1559400881462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$Advance.coverage" NAME="Advance Coverage Results" MODIFIED="1559656402912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct/testenum" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$thread_semaphore.coverage" NAME="thread_semaphore Coverage Results" MODIFIED="1561825911039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$inheritClass.coverage" NAME="inheritClass Coverage Results" MODIFIED="1559576031768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct/classpackage" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$python_thread.coverage" NAME="python_thread Coverage Results" MODIFIED="1561775397370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$metaclasss.coverage" NAME="metaclasss Coverage Results" MODIFIED="1560526254105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter8" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$async_await.coverage" NAME="async_await Coverage Results" MODIFIED="1560786028079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter12" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$deepcopy.coverage" NAME="deepcopy Coverage Results" MODIFIED="1561639945627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter01" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$threadprocess.coverage" NAME="threadprocess Coverage Results" MODIFIED="1561774272639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$iterableiterator.coverage" NAME="iterableiterator Coverage Results" MODIFIED="1560567267441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/iterableiterator" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$testcontextlib.coverage" NAME="testcontextlib Coverage Results" MODIFIED="1560007019561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$gen_to_coruntine.coverage" NAME="gen_to_coruntine Coverage Results" MODIFIED="1560784427979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter12" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$testJson.coverage" NAME="testJson Coverage Results" MODIFIED="1559576594969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct/testjson" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$async_io1.coverage" NAME="async_io1 Coverage Results" MODIFIED="1560788223106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter13" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$aysn_io.coverage" NAME="aysn_io Coverage Results" MODIFIED="1560690167081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter12" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$pythontimes.coverage" NAME="pythontimes Coverage Results" MODIFIED="1561908034595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/PythonTime" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$thread_condition.coverage" NAME="thread_condition Coverage Results" MODIFIED="1561780069209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$genericIterator.coverage" NAME="genericIterator Coverage Results" MODIFIED="1559662031562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$list_gen.coverage" NAME="list_gen Coverage Results" MODIFIED="1560261971250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$property.coverage" NAME="property Coverage Results" MODIFIED="1560524621566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter8" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$testClass.coverage" NAME="testClass Coverage Results" MODIFIED="1559574726462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$file_01.coverage" NAME="file_01 Coverage Results" MODIFIED="1561904850641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/pythonfile" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$process_queue.coverage" NAME="process_queue Coverage Results" MODIFIED="1560677133375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$yield_from.coverage" NAME="yield_from Coverage Results" MODIFIED="1560782236185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter12" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$clientSocket.coverage" NAME="clientSocket Coverage Results" MODIFIED="1561646259088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$modelfunction.coverage" NAME="modelfunction Coverage Results" MODIFIED="1559401199211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$testfunction.coverage" NAME="testfunction Coverage Results" MODIFIED="1559488276491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$concurent_future.coverage" NAME="concurent_future Coverage Results" MODIFIED="1561825923275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$how_gen_work.coverage" NAME="how_gen_work Coverage Results" MODIFIED="1560650980304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/iterableiterator" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$process_test.coverage" NAME="process_test Coverage Results" MODIFIED="1561897367755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$pythonAdvance.coverage" NAME="pythonAdvance Coverage Results" MODIFIED="1559662018935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct/testenum" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$setdict.coverage" NAME="setdict Coverage Results" MODIFIED="1560267665948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter06" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$textwith.coverage" NAME="textwith Coverage Results" MODIFIED="1560006643557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$new_init.coverage" NAME="new_init Coverage Results" MODIFIED="1560524895754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter8" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$thread_Queue_test_04.coverage" NAME="thread_Queue_test_04 Coverage Results" MODIFIED="1561778581961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$ServiceSocketSample.coverage" NAME="ServiceSocketSample Coverage Results" MODIFIED="1561646243543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$coroutine_test.coverage" NAME="coroutine_test Coverage Results" MODIFIED="1560782071682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter12" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$thread_sync.coverage" NAME="thread_sync Coverage Results" MODIFIED="1561779937085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="287" column="34" lean-forward="true" selection-start-line="287" selection-start-column="34" selection-end-line="287" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="254" column="4" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter01/deepcopy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="526" column="64" selection-start-line="526" selection-start-column="60" selection-end-line="526" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#1131#1140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter10/ServiceSocketSample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter10/clientSocket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="4" selection-start-line="4" selection-end-line="13" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter10/HttpsocketTcp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter10/socket_http.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#26#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="113">
+            <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/process_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/python_thread_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/python_GIL_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="18" column="96" selection-start-line="18" selection-start-column="96" selection-end-line="18" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_Queue_test_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="38" column="31" lean-forward="true" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="110" column="29" lean-forward="true" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+          <folding>
+            <element signature="e#426#493#0" />
+            <element signature="e#822#887#0" />
+            <element signature="e#1318#1379#0" />
+            <element signature="e#1497#1560#0" />
+            <element signature="e#1763#2649#0" />
+            <element signature="e#1763#2327#1" />
+            <element signature="e#2374#2649#0" />
+            <element signature="e#2461#2602#0" />
+            <element signature="e#2679#3190#0" />
+            <element signature="e#2679#3072#1" />
+            <element signature="e#3119#3190#0" />
+            <element signature="e#3221#3342#0" />
+            <element signature="e#3373#3918#0" />
+            <element signature="e#3373#3856#1" />
+            <element signature="e#6869#7025#0" />
+            <element signature="e#7157#7375#0" />
+            <element signature="e#7157#7332#1" />
+            <element signature="e#7411#7625#0" />
+            <element signature="e#7411#7588#1" />
+            <element signature="e#7631#7694#0" />
+            <element signature="e#7874#7894#0" />
+            <element signature="e#7926#7948#0" />
+            <element signature="e#8018#8041#0" />
+            <element signature="e#8166#8555#0" />
+            <element signature="e#8166#8328#1" />
+            <element signature="e#8368#8383#0" />
+            <element signature="e#8415#8437#0" />
+            <element signature="e#8473#8499#0" />
+            <element signature="e#8529#8555#0" />
+            <element signature="e#8586#8879#0" />
+            <element signature="e#8698#8713#0" />
+            <element signature="e#8745#8767#0" />
+            <element signature="e#8803#8826#0" />
+            <element signature="e#8856#8879#0" />
+            <element signature="e#8908#9003#1" />
+            <element signature="e#9008#9064#0" />
+            <element signature="e#9311#9377#0" />
+            <element signature="e#9438#9705#0" />
+            <element signature="e#9438#9642#1" />
+            <element signature="e#9760#10518#0" />
+            <element signature="e#9760#10285#1" />
+            <element signature="e#10818#11032#0" />
+            <element signature="e#10818#10995#1" />
+            <element signature="e#11063#11173#0" />
+            <element signature="e#11204#11299#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_Queue_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="88" column="9" lean-forward="true" selection-start-line="88" selection-start-column="9" selection-end-line="88" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_sync.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_condition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="442" column="16" selection-start-line="442" selection-start-column="6" selection-end-line="442" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#79#245#1" />
+            <element signature="e#246#258#0" />
+            <element signature="e#365#494#0" />
+            <element signature="e#365#485#1" />
+            <element signature="e#536#2704#0" />
+            <element signature="e#536#943#1" />
+            <element signature="e#1020#1073#0" />
+            <element signature="e#1149#1202#0" />
+            <element signature="e#1286#1334#0" />
+            <element signature="e#1450#1945#0" />
+            <element signature="e#1450#1932#1" />
+            <element signature="e#2035#2284#0" />
+            <element signature="e#2035#2271#1" />
+            <element signature="e#2362#2421#0" />
+            <element signature="e#2497#2536#0" />
+            <element signature="e#2733#8697#0" />
+            <element signature="e#2733#2871#1" />
+            <element signature="e#2944#3011#0" />
+            <element signature="e#3089#3155#0" />
+            <element signature="e#3228#3284#0" />
+            <element signature="e#3356#3410#0" />
+            <element signature="e#3496#3587#0" />
+            <element signature="e#3661#3748#0" />
+            <element signature="e#3826#3912#0" />
+            <element signature="e#4021#4191#0" />
+            <element signature="e#4021#4174#1" />
+            <element signature="e#4288#4362#0" />
+            <element signature="e#4433#4494#0" />
+            <element signature="e#4569#4629#0" />
+            <element signature="e#4716#4789#0" />
+            <element signature="e#4870#4924#0" />
+            <element signature="e#4998#5104#0" />
+            <element signature="e#5179#5218#0" />
+            <element signature="e#5294#5324#0" />
+            <element signature="e#5404#5444#0" />
+            <element signature="e#5520#5574#0" />
+            <element signature="e#5653#5691#0" />
+            <element signature="e#5765#5805#0" />
+            <element signature="e#5889#5937#0" />
+            <element signature="e#6016#6054#0" />
+            <element signature="e#6128#6168#0" />
+            <element signature="e#6242#6281#0" />
+            <element signature="e#6357#6400#0" />
+            <element signature="e#6476#6519#0" />
+            <element signature="e#6623#6824#0" />
+            <element signature="e#6623#6811#1" />
+            <element signature="e#6900#6942#0" />
+            <element signature="e#7017#7055#0" />
+            <element signature="e#7129#7169#0" />
+            <element signature="e#7243#7282#0" />
+            <element signature="e#7357#7396#0" />
+            <element signature="e#7507#7599#0" />
+            <element signature="e#7673#7713#0" />
+            <element signature="e#7791#7850#0" />
+            <element signature="e#7926#7965#0" />
+            <element signature="e#8051#8132#0" />
+            <element signature="e#8208#8247#0" />
+            <element signature="e#8326#8370#0" />
+            <element signature="e#8454#8522#0" />
+            <element signature="e#8729#14242#0" />
+            <element signature="e#8856#8923#0" />
+            <element signature="e#9001#9055#0" />
+            <element signature="e#9147#9248#0" />
+            <element signature="e#9321#9325#0" />
+            <element signature="e#9397#9401#0" />
+            <element signature="e#9480#9648#0" />
+            <element signature="e#9480#9635#1" />
+            <element signature="e#9736#9957#0" />
+            <element signature="e#9736#9944#1" />
+            <element signature="e#10032#10217#0" />
+            <element signature="e#10032#10204#1" />
+            <element signature="e#10295#10484#0" />
+            <element signature="e#10295#10471#1" />
+            <element signature="e#10558#10562#0" />
+            <element signature="e#10636#10640#0" />
+            <element signature="e#10719#10757#0" />
+            <element signature="e#10831#10871#0" />
+            <element signature="e#10945#10985#0" />
+            <element signature="e#11059#11098#0" />
+            <element signature="e#11174#11178#0" />
+            <element signature="e#11254#11296#0" />
+            <element signature="e#11370#11410#0" />
+            <element signature="e#11484#11523#0" />
+            <element signature="e#11597#11637#0" />
+            <element signature="e#11715#11773#0" />
+            <element signature="e#11849#11888#0" />
+            <element signature="e#11974#12030#0" />
+            <element signature="e#12109#12153#0" />
+            <element signature="e#12231#12235#0" />
+            <element signature="e#14280#15233#0" />
+            <element signature="e#14371#14419#0" />
+            <element signature="e#14495#14499#0" />
+            <element signature="e#14575#14617#0" />
+            <element signature="e#14700#14775#0" />
+            <element signature="e#14886#14978#0" />
+            <element signature="e#15054#15096#0" />
+            <element signature="e#15174#15233#0" />
+            <element signature="e#15279#16232#0" />
+            <element signature="e#15370#15418#0" />
+            <element signature="e#15494#15498#0" />
+            <element signature="e#15574#15616#0" />
+            <element signature="e#15699#15774#0" />
+            <element signature="e#15885#15977#0" />
+            <element signature="e#16053#16095#0" />
+            <element signature="e#16173#16232#0" />
+            <element signature="e#16265#19249#0" />
+            <element signature="e#16265#16431#1" />
+            <element signature="e#16527#16572#0" />
+            <element signature="e#16667#16710#0" />
+            <element signature="e#16805#17039#0" />
+            <element signature="e#16805#17026#1" />
+            <element signature="e#17132#17136#0" />
+            <element signature="e#17228#17306#0" />
+            <element signature="e#17400#17477#0" />
+            <element signature="e#17571#17644#0" />
+            <element signature="e#17739#17914#0" />
+            <element signature="e#17739#17901#1" />
+            <element signature="e#17984#18142#0" />
+            <element signature="e#17984#18129#1" />
+            <element signature="e#18218#18222#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_semaphore.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="e#29#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/queue.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/weakref.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/itertools.pyi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#67#83#0" expanded="true" />
+            <element signature="e#1720#1960#0" />
+            <element signature="e#1720#1910#1" />
+            <element signature="e#1986#2218#0" />
+            <element signature="e#1986#2172#1" />
+            <element signature="e#3190#3589#0" />
+            <element signature="e#3380#3579#0" />
+            <element signature="e#3649#5203#0" />
+            <element signature="e#3649#4956#1" />
+            <element signature="e#5024#5061#0" />
+            <element signature="e#5141#5185#0" />
+            <element signature="e#5261#6126#0" />
+            <element signature="e#5261#5888#1" />
+            <element signature="e#6074#6126#0" />
+            <element signature="e#6170#6184#0" />
+            <element signature="e#6285#6347#0" />
+            <element signature="e#6386#6639#0" />
+            <element signature="e#6674#6707#0" />
+            <element signature="e#6750#12516#0" />
+            <element signature="e#6750#7118#1" />
+            <element signature="e#7163#7949#0" />
+            <element signature="e#7373#7437#0" />
+            <element signature="e#7984#8013#0" />
+            <element signature="e#8054#8087#0" />
+            <element signature="e#8121#8184#0" />
+            <element signature="e#8223#8272#0" />
+            <element signature="e#8317#8368#0" />
+            <element signature="e#8403#8654#0" />
+            <element signature="e#8403#8452#0" />
+            <element signature="e#8571#8616#0" />
+            <element signature="e#8698#10687#0" />
+            <element signature="e#8698#9835#1" />
+            <element signature="e#10181#10467#0" />
+            <element signature="e#10217#10262#0" />
+            <element signature="e#10297#10442#0" />
+            <element signature="e#10497#10687#0" />
+            <element signature="e#10574#10687#0" />
+            <element signature="e#10746#11425#0" />
+            <element signature="e#10746#10972#1" />
+            <element signature="e#11090#11403#0" />
+            <element signature="e#11131#11338#0" />
+            <element signature="e#11242#11338#0" />
+            <element signature="e#11462#12231#0" />
+            <element signature="e#11462#11799#1" />
+            <element signature="e#12103#12231#0" />
+            <element signature="e#12267#12488#0" />
+            <element signature="e#12267#12448#1" />
+            <element signature="e#12540#15581#0" />
+            <element signature="e#12540#12873#1" />
+            <element signature="e#12994#13143#0" />
+            <element signature="e#13205#15158#0" />
+            <element signature="e#13205#14447#1" />
+            <element signature="e#14655#15140#0" />
+            <element signature="e#14695#15063#0" />
+            <element signature="e#14798#15022#0" />
+            <element signature="e#14920#15022#0" />
+            <element signature="e#15098#15140#0" />
+            <element signature="e#15216#15523#0" />
+            <element signature="e#15216#15437#1" />
+            <element signature="e#15475#15523#0" />
+            <element signature="e#15567#15581#0" />
+            <element signature="e#15623#16976#0" />
+            <element signature="e#15623#16310#1" />
+            <element signature="e#16353#16420#0" />
+            <element signature="e#16453#16976#0" />
+            <element signature="e#16453#16769#1" />
+            <element signature="e#16807#16976#0" />
+            <element signature="e#16996#17244#1" />
+            <element signature="e#17441#17544#0" />
+            <element signature="e#17576#17661#0" />
+            <element signature="e#17710#17990#0" />
+            <element signature="e#17710#17899#1" />
+            <element signature="e#17937#17990#0" />
+            <element signature="e#18021#18253#0" />
+            <element signature="e#18021#18197#1" />
+            <element signature="e#18297#19055#0" />
+            <element signature="e#18297#18887#1" />
+            <element signature="e#18925#19055#0" />
+            <element signature="e#19058#19127#0" />
+            <element signature="e#19747#24919#0" />
+            <element signature="e#19747#19962#1" />
+            <element signature="e#20032#20611#0" />
+            <element signature="e#20032#20381#1" />
+            <element signature="e#20655#21648#0" />
+            <element signature="e#20655#20995#1" />
+            <element signature="e#21097#21648#0" />
+            <element signature="e#21239#21497#0" />
+            <element signature="e#21290#21350#0" />
+            <element signature="e#21393#21468#0" />
+            <element signature="e#21535#21648#0" />
+            <element signature="e#21654#21718#0" />
+            <element signature="e#21772#22036#0" />
+            <element signature="e#21814#21890#0" />
+            <element signature="e#22042#22103#0" />
+            <element signature="e#22158#22454#0" />
+            <element signature="e#22175#22321#0" />
+            <element signature="e#22350#22454#0" />
+            <element signature="e#22460#22524#0" />
+            <element signature="e#22604#22870#0" />
+            <element signature="e#22680#22773#0" />
+            <element signature="e#22876#22943#0" />
+            <element signature="e#23013#23183#0" />
+            <element signature="e#23046#23183#0" />
+            <element signature="e#23089#23183#0" />
+            <element signature="e#23214#23829#0" />
+            <element signature="e#23214#23361#1" />
+            <element signature="e#23399#23829#0" />
+            <element signature="e#23435#23743#0" />
+            <element signature="e#23476#23550#0" />
+            <element signature="e#23611#23743#0" />
+            <element signature="e#23611#23645#0" />
+            <element signature="e#23860#24112#0" />
+            <element signature="e#23860#24061#1" />
+            <element signature="e#24144#24304#0" />
+            <element signature="e#24144#24200#0" />
+            <element signature="e#24351#24444#0" />
+            <element signature="e#24493#24786#0" />
+            <element signature="e#24570#24640#0" />
+            <element signature="e#24832#24919#0" />
+            <element signature="e#25005#25009#0" />
+            <element signature="e#25177#25205#0" />
+            <element signature="e#25405#41307#0" />
+            <element signature="e#25405#25674#1" />
+            <element signature="e#25705#25761#0" />
+            <element signature="e#25981#26040#0" />
+            <element signature="e#26237#27851#0" />
+            <element signature="e#26237#27086#1" />
+            <element signature="e#27637#27681#0" />
+            <element signature="e#27908#28335#0" />
+            <element signature="e#27908#27974#0" />
+            <element signature="e#28178#28335#0" />
+            <element signature="e#28178#28239#0" />
+            <element signature="e#28369#28873#0" />
+            <element signature="e#28904#29683#0" />
+            <element signature="e#28904#29211#1" />
+            <element signature="e#29579#29654#0" />
+            <element signature="e#29712#30377#0" />
+            <element signature="e#29712#30062#1" />
+            <element signature="e#30088#30162#0" />
+            <element signature="e#30192#30377#0" />
+            <element signature="e#30192#30251#0" />
+            <element signature="e#30413#31376#0" />
+            <element signature="e#30413#30466#0" />
+            <element signature="e#31300#31376#0" />
+            <element signature="e#31412#31437#0" />
+            <element signature="e#31479#31713#0" />
+            <element signature="e#31479#31633#1" />
+            <element signature="e#31755#34659#0" />
+            <element signature="e#31772#34375#0" />
+            <element signature="e#31911#31971#0" />
+            <element signature="e#32254#34079#0" />
+            <element signature="e#32254#32310#0" />
+            <element signature="e#32565#32674#0" />
+            <element signature="e#32742#34079#0" />
+            <element signature="e#32742#32795#0" />
+            <element signature="e#33015#33839#0" />
+            <element signature="e#33374#33709#0" />
+            <element signature="e#33479#33635#0" />
+            <element signature="e#33860#33917#0" />
+            <element signature="e#34117#34375#0" />
+            <element signature="e#34117#34136#0" />
+            <element signature="e#34405#34659#0" />
+            <element signature="e#34446#34659#0" />
+            <element signature="e#34471#34610#0" />
+            <element signature="e#34471#34517#0" />
+            <element signature="e#34690#35858#0" />
+            <element signature="e#34690#34761#0" />
+            <element signature="e#35891#36302#0" />
+            <element signature="e#36004#36302#0" />
+            <element signature="e#36041#36102#0" />
+            <element signature="e#36346#37998#0" />
+            <element signature="e#36346#37393#1" />
+            <element signature="e#37798#37998#0" />
+            <element signature="e#37798#37856#0" />
+            <element signature="e#38069#38736#0" />
+            <element signature="e#38069#38122#0" />
+            <element signature="e#38697#38736#0" />
+            <element signature="e#38780#39061#0" />
+            <element signature="e#38780#38970#1" />
+            <element signature="e#39114#39201#0" />
+            <element signature="e#39246#39652#0" />
+            <element signature="e#39246#39560#1" />
+            <element signature="e#39686#40165#0" />
+            <element signature="e#39686#39938#1" />
+            <element signature="e#40235#40790#0" />
+            <element signature="e#40235#40695#1" />
+            <element signature="e#40851#41084#0" />
+            <element signature="e#41118#41136#0" />
+            <element signature="e#41181#41203#0" />
+            <element signature="e#41236#41252#0" />
+            <element signature="e#41291#41307#0" />
+            <element signature="e#41395#42210#0" />
+            <element signature="e#41395#41612#1" />
+            <element signature="e#41690#41921#0" />
+            <element signature="e#41953#42028#0" />
+            <element signature="e#42057#42210#0" />
+            <element signature="e#42298#42539#0" />
+            <element signature="e#42326#42539#0" />
+            <element signature="e#42542#42601#0" />
+            <element signature="e#43011#43457#0" />
+            <element signature="e#43039#43228#0" />
+            <element signature="e#43259#43263#0" />
+            <element signature="e#43297#43371#0" />
+            <element signature="e#43415#43457#0" />
+            <element signature="e#43510#43755#1" />
+            <element signature="e#43909#44132#0" />
+            <element signature="e#43909#44061#1" />
+            <element signature="e#44184#44305#0" />
+            <element signature="e#44328#44678#0" />
+            <element signature="e#44328#44587#1" />
+            <element signature="e#44712#44744#0" />
+            <element signature="e#44877#45683#0" />
+            <element signature="e#44877#44947#0" />
+            <element signature="e#45295#45342#0" />
+            <element signature="e#45385#45458#0" />
+            <element signature="e#45636#45683#0" />
+            <element signature="e#45721#45821#0" />
+            <element signature="e#45751#45805#0" />
+            <element signature="e#45846#46019#0" />
+            <element signature="e#45846#45995#1" />
+            <element signature="e#46021#46078#0" />
+            <element signature="e#46247#47693#0" />
+            <element signature="e#46247#46329#1" />
+            <element signature="e#46334#46403#0" />
+            <element signature="e#46753#47693#0" />
+            <element signature="e#46753#46815#0" />
+            <element signature="e#46972#47577#0" />
+            <element signature="e#46972#47034#0" />
+            <element signature="e#47139#47422#0" />
+            <element signature="e#47139#47195#0" />
+            <element signature="e#47457#47577#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/_threading_local.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="160" column="24" selection-start-line="160" selection-start-column="17" selection-end-line="160" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="673" column="31" selection-start-line="673" selection-start-column="31" selection-end-line="673" selection-end-column="31" />
+          <folding>
+            <element signature="e#416#434#0" expanded="true" />
+            <element signature="e#588#720#0" />
+            <element signature="e#588#720#2" />
+            <element signature="e#741#3199#0" />
+            <element signature="e#815#949#0" />
+            <element signature="e#1020#1456#0" />
+            <element signature="e#1312#1400#0" />
+            <element signature="e#1492#1900#0" />
+            <element signature="e#1641#1737#0" />
+            <element signature="e#1785#1880#0" />
+            <element signature="e#1934#2068#0" />
+            <element signature="e#2100#2496#0" />
+            <element signature="e#2136#2496#0" />
+            <element signature="e#2214#2432#0" />
+            <element signature="e#2214#2272#0" />
+            <element signature="e#2531#2553#0" />
+            <element signature="e#2583#3199#0" />
+            <element signature="e#2692#3127#0" />
+            <element signature="e#2851#2964#0" />
+            <element signature="e#3233#5035#0" />
+            <element signature="e#3411#3626#0" />
+            <element signature="e#3662#3798#0" />
+            <element signature="e#3832#3855#0" />
+            <element signature="e#3894#3925#0" />
+            <element signature="e#3964#4050#0" />
+            <element signature="e#4089#4120#0" />
+            <element signature="e#4159#4245#0" />
+            <element signature="e#4284#4563#0" />
+            <element signature="e#4331#4533#0" />
+            <element signature="e#4602#4700#0" />
+            <element signature="e#4732#4833#0" />
+            <element signature="e#4863#5035#0" />
+            <element signature="e#4863#5009#1" />
+            <element signature="e#5145#5238#0" />
+            <element signature="e#5272#5364#0" />
+            <element signature="e#5400#5491#0" />
+            <element signature="e#5536#5719#0" />
+            <element signature="e#5536#5685#1" />
+            <element signature="e#5764#5937#0" />
+            <element signature="e#5764#5903#1" />
+            <element signature="e#5980#6062#0" />
+            <element signature="e#6104#6115#0" />
+            <element signature="e#6162#6207#0" />
+            <element signature="e#6346#6428#0" />
+            <element signature="e#6480#6632#0" />
+            <element signature="e#6480#6598#1" />
+            <element signature="e#6662#6876#0" />
+            <element signature="e#6662#6842#1" />
+            <element signature="e#6912#7003#0" />
+            <element signature="e#7038#7120#0" />
+            <element signature="e#7151#7361#0" />
+            <element signature="e#7151#7327#1" />
+            <element signature="e#7411#7495#0" />
+            <element signature="e#7616#7707#0" />
+            <element signature="e#7759#7801#0" />
+            <element signature="e#7861#7886#0" />
+            <element signature="e#7942#7967#0" />
+            <element signature="e#7997#8022#0" />
+            <element signature="e#8061#8086#0" />
+            <element signature="e#8322#8347#0" />
+            <element signature="e#8417#8442#0" />
+            <element signature="e#8498#8523#0" />
+            <element signature="e#8689#8714#0" />
+            <element signature="e#8776#8801#0" />
+            <element signature="e#9070#9095#0" />
+            <element signature="e#9425#11357#0" />
+            <element signature="e#9425#11323#1" />
+            <element signature="e#11477#11599#0" />
+            <element signature="e#11477#11565#1" />
+            <element signature="e#11817#11981#0" />
+            <element signature="e#11817#11947#1" />
+            <element signature="e#12187#12212#0" />
+            <element signature="e#12425#13437#0" />
+            <element signature="e#12425#13403#1" />
+            <element signature="e#13803#15083#0" />
+            <element signature="e#13803#15049#1" />
+            <element signature="e#15187#15786#0" />
+            <element signature="e#15187#15479#1" />
+            <element signature="e#15488#15559#0" />
+            <element signature="e#15860#16455#0" />
+            <element signature="e#15860#16148#1" />
+            <element signature="e#16157#16228#0" />
+            <element signature="e#16734#16759#0" />
+            <element signature="e#17032#17057#0" />
+            <element signature="e#17063#17107#0" />
+            <element signature="e#17314#17339#0" />
+            <element signature="e#17382#17407#0" />
+            <element signature="e#17464#17489#0" />
+            <element signature="e#17532#17557#0" />
+            <element signature="e#17667#17692#0" />
+            <element signature="e#17749#17774#0" />
+            <element signature="e#17830#17855#0" />
+            <element signature="e#17914#17939#0" />
+            <element signature="e#17988#18013#0" />
+            <element signature="e#18138#18163#0" />
+            <element signature="e#18253#18278#0" />
+            <element signature="e#18330#18355#0" />
+            <element signature="e#18427#18452#0" />
+            <element signature="e#18494#18519#0" />
+            <element signature="e#18589#18614#0" />
+            <element signature="e#18670#18695#0" />
+            <element signature="e#18755#18780#0" />
+            <element signature="e#18837#18862#0" />
+            <element signature="e#18927#18952#0" />
+            <element signature="e#18996#19021#0" />
+            <element signature="e#19150#19504#0" />
+            <element signature="e#19150#19470#1" />
+            <element signature="e#19681#19930#0" />
+            <element signature="e#19681#19896#1" />
+            <element signature="e#20018#20090#0" />
+            <element signature="e#20142#20218#0" />
+            <element signature="e#20284#21922#0" />
+            <element signature="e#20284#20769#1" />
+            <element signature="e#20840#20880#0" />
+            <element signature="e#20914#20941#0" />
+            <element signature="e#20981#21512#0" />
+            <element signature="e#20981#21070#1" />
+            <element signature="e#21347#21478#0" />
+            <element signature="e#21558#21722#0" />
+            <element signature="e#21762#21922#0" />
+            <element signature="e#21762#21886#1" />
+            <element signature="e#21925#21994#0" />
+            <element signature="e#22485#22794#0" />
+            <element signature="e#22485#22605#1" />
+            <element signature="e#22826#23183#0" />
+            <element signature="e#22826#22983#1" />
+            <element signature="e#23219#23483#0" />
+            <element signature="e#23219#23365#1" />
+            <element signature="e#23521#23729#0" />
+            <element signature="e#23571#23729#0" />
+            <element signature="e#23635#23729#0" />
+            <element signature="e#23765#23904#0" />
+            <element signature="e#23946#24177#0" />
+            <element signature="e#23946#24042#1" />
+            <element signature="e#24206#24760#0" />
+            <element signature="e#24206#24539#1" />
+            <element signature="e#24944#25065#0" />
+            <element signature="e#25263#25408#0" />
+            <element signature="e#25640#25695#0" />
+            <element signature="e#25965#26184#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/futures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#2048#2273#1" />
+            <element signature="e#2468#2556#0" />
+            <element signature="e#2639#2748#0" />
+            <element signature="e#2781#3310#0" />
+            <element signature="e#2822#2942#0" />
+            <element signature="e#2822#2882#0" />
+            <element signature="e#2991#3159#0" />
+            <element signature="e#3364#3391#0" />
+            <element signature="e#3463#3585#0" />
+            <element signature="e#3728#4146#0" />
+            <element signature="e#3728#3959#1" />
+            <element signature="e#4192#4587#0" />
+            <element signature="e#4192#4368#1" />
+            <element signature="e#4622#4709#0" />
+            <element signature="e#4811#5009#0" />
+            <element signature="e#4811#4970#1" />
+            <element signature="e#5041#5632#0" />
+            <element signature="e#5041#5325#1" />
+            <element signature="e#5667#6204#0" />
+            <element signature="e#5667#5967#1" />
+            <element signature="e#6268#6767#0" />
+            <element signature="e#6268#6522#1" />
+            <element signature="e#6645#6767#0" />
+            <element signature="e#6852#7304#0" />
+            <element signature="e#6852#6983#1" />
+            <element signature="e#7013#7126#0" />
+            <element signature="e#7425#7789#0" />
+            <element signature="e#7425#7581#1" />
+            <element signature="e#7839#8511#0" />
+            <element signature="e#7839#7997#1" />
+            <element signature="e#8241#8371#0" />
+            <element signature="e#8257#8370#0" />
+            <element signature="e#8546#8819#0" />
+            <element signature="e#8578#8680#0" />
+            <element signature="e#9463#9864#0" />
+            <element signature="e#9802#9864#0" />
+            <element signature="e#9909#10381#0" />
+            <element signature="e#9909#10028#1" />
+            <element signature="e#10188#10381#0" />
+            <element signature="e#10321#10381#0" />
+            <element signature="e#10428#12151#0" />
+            <element signature="e#10428#10706#1" />
+            <element signature="e#11307#11443#0" />
+            <element signature="e#11494#11699#0" />
+            <element signature="e#11534#11699#0" />
+            <element signature="e#11742#12050#0" />
+            <element signature="e#12197#12571#0" />
+            <element signature="e#12638#12709#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_asyncio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/asyncio/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="315" column="30" selection-start-line="315" selection-start-column="30" selection-end-line="315" selection-end-column="30" />
+          <folding>
+            <element signature="e#380#405#0" expanded="true" />
+            <element signature="e#834#1142#0" />
+            <element signature="e#946#990#0" />
+            <element signature="e#1052#1142#0" />
+            <element signature="e#1183#1569#0" />
+            <element signature="e#1183#1248#0" />
+            <element signature="e#1402#1446#0" />
+            <element signature="e#1761#1819#0" />
+            <element signature="e#2326#2852#0" />
+            <element signature="e#2326#2545#1" />
+            <element signature="e#2568#2664#0" />
+            <element signature="e#2914#3282#0" />
+            <element signature="e#2914#3044#1" />
+            <element signature="e#3067#3157#0" />
+            <element signature="e#3336#3976#0" />
+            <element signature="e#3499#3737#0" />
+            <element signature="e#3499#3562#0" />
+            <element signature="e#4009#4399#0" />
+            <element signature="e#4087#4373#0" />
+            <element signature="e#4097#4210#0" />
+            <element signature="e#4435#4474#0" />
+            <element signature="e#4632#4699#0" />
+            <element signature="e#4749#5735#0" />
+            <element signature="e#4749#5680#1" />
+            <element signature="e#5798#6233#0" />
+            <element signature="e#5798#6170#1" />
+            <element signature="e#6265#7665#0" />
+            <element signature="e#6265#7169#1" />
+            <element signature="e#7308#7543#0" />
+            <element signature="e#7354#7543#0" />
+            <element signature="e#7354#7401#0" />
+            <element signature="e#7707#11507#0" />
+            <element signature="e#7735#7828#0" />
+            <element signature="e#7871#8003#0" />
+            <element signature="e#8184#8435#0" />
+            <element signature="e#8216#8376#0" />
+            <element signature="e#8216#8271#0" />
+            <element signature="e#8485#8737#0" />
+            <element signature="e#8523#8673#0" />
+            <element signature="e#8957#9001#0" />
+            <element signature="e#9028#11372#0" />
+            <element signature="e#9142#10560#0" />
+            <element signature="e#9277#9532#0" />
+            <element signature="e#9325#9420#0" />
+            <element signature="e#9584#10257#0" />
+            <element signature="e#9627#9839#0" />
+            <element signature="e#9890#10257#0" />
+            <element signature="e#10170#10257#0" />
+            <element signature="e#10300#10560#0" />
+            <element signature="e#10348#10448#0" />
+            <element signature="e#10611#10747#0" />
+            <element signature="e#10810#11122#0" />
+            <element signature="e#10908#11018#0" />
+            <element signature="e#11157#11372#0" />
+            <element signature="e#11402#11507#0" />
+            <element signature="e#11549#12220#0" />
+            <element signature="e#11627#11690#0" />
+            <element signature="e#11717#12148#0" />
+            <element signature="e#11717#11772#0" />
+            <element signature="e#12397#12567#0" />
+            <element signature="e#12397#12496#1" />
+            <element signature="e#12865#13800#0" />
+            <element signature="e#12865#13263#1" />
+            <element signature="e#13843#13896#0" />
+            <element signature="e#13951#15488#0" />
+            <element signature="e#13951#14341#1" />
+            <element signature="e#14482#14632#0" />
+            <element signature="e#14880#15443#0" />
+            <element signature="e#15018#15089#0" />
+            <element signature="e#15172#15443#0" />
+            <element signature="e#15213#15258#0" />
+            <element signature="e#15544#16705#0" />
+            <element signature="e#15544#15636#1" />
+            <element signature="e#15900#16315#0" />
+            <element signature="e#16171#16315#0" />
+            <element signature="e#16430#16496#0" />
+            <element signature="e#16556#16680#0" />
+            <element signature="e#16751#17151#0" />
+            <element signature="e#16953#17101#0" />
+            <element signature="e#16974#17016#0" />
+            <element signature="e#17282#19210#0" />
+            <element signature="e#17282#17894#1" />
+            <element signature="e#18320#18524#0" />
+            <element signature="e#18347#18463#0" />
+            <element signature="e#18561#18763#0" />
+            <element signature="e#18804#18985#0" />
+            <element signature="e#18859#18931#0" />
+            <element signature="e#19250#19513#0" />
+            <element signature="e#19250#19503#1" />
+            <element signature="e#19571#19997#0" />
+            <element signature="e#19662#19700#0" />
+            <element signature="e#20053#20892#0" />
+            <element signature="e#20053#20168#1" />
+            <element signature="e#20224#20429#0" />
+            <element signature="e#20481#20650#0" />
+            <element signature="e#20788#20892#0" />
+            <element signature="e#20804#20891#0" />
+            <element signature="e#20942#21160#0" />
+            <element signature="e#20942#21114#1" />
+            <element signature="e#21207#22002#0" />
+            <element signature="e#21207#21387#1" />
+            <element signature="e#21445#21545#0" />
+            <element signature="e#21577#22002#0" />
+            <element signature="e#21687#21732#0" />
+            <element signature="e#21761#21983#0" />
+            <element signature="e#21761#21816#0" />
+            <element signature="e#22076#25973#0" />
+            <element signature="e#22076#23154#1" />
+            <element signature="e#23192#23338#0" />
+            <element signature="e#23377#25067#0" />
+            <element signature="e#23457#23575#0" />
+            <element signature="e#23497#23556#0" />
+            <element signature="e#23623#24082#0" />
+            <element signature="e#23659#23918#0" />
+            <element signature="e#23659#23698#0" />
+            <element signature="e#23953#24082#0" />
+            <element signature="e#24031#24082#0" />
+            <element signature="e#24127#25067#0" />
+            <element signature="e#24127#24175#0" />
+            <element signature="e#24299#24725#0" />
+            <element signature="e#24339#24546#0" />
+            <element signature="e#24339#24378#0" />
+            <element signature="e#24589#24689#0" />
+            <element signature="e#24783#25007#0" />
+            <element signature="e#24783#24835#0" />
+            <element signature="e#25180#25905#0" />
+            <element signature="e#25218#25757#0" />
+            <element signature="e#25376#25649#0" />
+            <element signature="e#25376#25427#0" />
+            <element signature="e#25785#25875#0" />
+            <element signature="e#26011#27519#0" />
+            <element signature="e#26011#26831#1" />
+            <element signature="e#26903#26935#0" />
+            <element signature="e#27045#27457#0" />
+            <element signature="e#27079#27209#0" />
+            <element signature="e#27121#27190#0" />
+            <element signature="e#27294#27457#0" />
+            <element signature="e#27568#28143#0" />
+            <element signature="e#27568#27689#1" />
+            <element signature="e#27859#28084#0" />
+            <element signature="e#27983#28084#0" />
+            <element signature="e#28216#28274#0" />
+            <element signature="e#28373#28455#0" />
+            <element signature="e#28491#28744#0" />
+            <element signature="e#28572#28712#0" />
+            <element signature="e#28591#28711#0" />
+            <element signature="e#28780#29015#0" />
+            <element signature="e#28861#28986#0" />
+            <element signature="e#28880#28985#0" />
+            <element signature="e#29050#29103#0" />
+            <element signature="e#29249#29410#0" />
+            <element signature="e#29450#29589#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/concurent_future.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/concurrent/futures/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <folding>
+            <element signature="e#192#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/concurrent/futures/_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="138" column="19" selection-start-line="138" selection-start-column="19" selection-end-line="138" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!doc" />
+            <element signature="e#676#761#0" />
+            <element signature="e#791#936#0" />
+            <element signature="e#1833#1912#0" />
+            <element signature="e#2421#2766#0" />
+            <element signature="e#2513#2564#0" />
+            <element signature="e#2611#2665#0" />
+            <element signature="e#2712#2766#0" />
+            <element signature="e#2808#3708#0" />
+            <element signature="e#2946#3103#0" />
+            <element signature="e#3153#3284#0" />
+            <element signature="e#3181#3284#0" />
+            <element signature="e#3328#3394#0" />
+            <element signature="e#3441#3592#0" />
+            <element signature="e#3639#3708#0" />
+            <element signature="e#3862#3900#0" />
+            <element signature="e#4166#4845#0" />
+            <element signature="e#4337#4774#0" />
+            <element signature="e#4906#5565#0" />
+            <element signature="e#4906#5294#1" />
+            <element signature="e#5317#5565#0" />
+            <element signature="e#6892#7133#0" />
+            <element signature="e#6992#7133#0" />
+            <element signature="e#7226#7342#0" />
+            <element signature="e#7582#7715#0" />
+            <element signature="e#7655#7715#0" />
+            <element signature="e#7874#9798#0" />
+            <element signature="e#7874#8930#1" />
+            <element signature="e#8969#9587#0" />
+            <element signature="e#8980#9062#0" />
+            <element signature="e#9278#9433#0" />
+            <element signature="e#9285#9370#0" />
+            <element signature="e#9645#9701#0" />
+            <element signature="e#10447#11287#0" />
+            <element signature="e#10481#11287#0" />
+            <element signature="e#10525#11107#0" />
+            <element signature="e#10565#10815#0" />
+            <element signature="e#10633#10814#0" />
+            <element signature="e#10858#11107#0" />
+            <element signature="e#10928#11106#0" />
+            <element signature="e#11174#11286#0" />
+            <element signature="e#13383#14478#0" />
+            <element signature="e#13383#13967#1" />
+            <element signature="e#14010#14478#0" />
+            <element signature="e#14527#15634#0" />
+            <element signature="e#14527#15130#1" />
+            <element signature="e#15174#15634#0" />
+            <element signature="e#15763#17441#0" />
+            <element signature="e#15763#16721#1" />
+            <element signature="e#16764#17441#0" />
+            <element signature="e#16809#17095#0" />
+            <element signature="e#16954#17009#0" />
+            <element signature="e#17153#17202#0" />
+            <element signature="e#17237#17441#0" />
+            <element signature="e#17934#18081#1" />
+            <element signature="e#18124#18311#0" />
+            <element signature="e#18500#18794#1" />
+            <element signature="e#18902#19801#1" />
+            <element signature="e#19960#20027#0" />
+            <element signature="e#20537#20590#0" />
+            <element signature="e#21277#21365#2" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/concurrent/futures/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="16" column="51" lean-forward="true" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/posix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="329" column="7" lean-forward="true" selection-start-line="329" selection-start-column="7" selection-end-line="329" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="429" lean-forward="true" selection-start-line="429" selection-end-line="429" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/process_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#111#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter11/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="76">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/PythonTime/data/2019-05-02/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/PythonTime/data/2019-05-01/aa.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/PythonTime/pythontimes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#55#70#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/pythonfile/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/pythonfile/file_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#37#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/pythonfile/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="202">
+            <caret line="37" column="53" selection-start-line="37" selection-start-column="53" selection-end-line="37" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/collectionsSample/collections.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
