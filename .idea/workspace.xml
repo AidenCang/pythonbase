@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9c205c5-c041-4c77-b2de-04800f913fff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/collectionsSample/collection_overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/collectionsSample/python_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/collectionsSample/python_deque.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/test_request/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/test_request/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonBase/test_request/py_request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonBase/collectionsSample/collections.md" beforeDir="false" afterPath="$PROJECT_DIR$/pythonBase/collectionsSample/collections.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,23 +20,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonBase/collectionsSample/collections.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonBase/test_request/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="19">
-                <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <first_editor relative-caret-position="232">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonBase/test_request/py_request.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+            <state relative-caret-position="19">
+              <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/requests/exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -65,11 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pythonBase/datastruct/genericIterator.py" />
-        <option value="$PROJECT_DIR$/pythonBase/advancePyton/typeclassobject.py" />
-        <option value="$PROJECT_DIR$/pythonBase/advancePyton/textwith.py" />
-        <option value="$PROJECT_DIR$/pythonBase/advancePyton/testcontextlib.py" />
-        <option value="$PROJECT_DIR$/pythonBase/advancePyton/sequnce_test.py" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/list_gen.py" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/setdict.py" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter06/setdict.py" />
@@ -99,7 +111,6 @@
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter10/clientSocket.py" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/threadprocess.py" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/threadQueue.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter10/socket_http.py" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/python_GIL_01.py" />
         <option value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/python_thread.py" />
@@ -114,8 +125,14 @@
         <option value="$PROJECT_DIR$/pythonBase/pythonfile/README.md" />
         <option value="$PROJECT_DIR$/pythonBase/pythonfile/file_01.py" />
         <option value="$PROJECT_DIR$/pythonBase/PythonTime/pythontimes.py" />
-        <option value="$PROJECT_DIR$/pythonBase/collectionsSample/collections.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/pythonBase/collectionsSample/collection_overview.py" />
+        <option value="$PROJECT_DIR$/pythonBase/collectionsSample/python_deque.py" />
+        <option value="$PROJECT_DIR$/pythonBase/collectionsSample/python_counter.py" />
+        <option value="$PROJECT_DIR$/pythonBase/collectionsSample/collections.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/pythonBase/test_request/py_request.py" />
+        <option value="$PROJECT_DIR$/pythonBase/test_request/README.md" />
       </list>
     </option>
   </component>
@@ -137,6 +154,20 @@
             <path>
               <item name="PythonStudyExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonStudyExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudyExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonStudyExample" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonStudyExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="PythonStudyExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (PythonStudyExample) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -173,8 +204,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pythontimes">
-    <configuration name="concurent_future" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.py_request">
+    <configuration name="collection_overview" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudyExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,12 +213,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/collectionsSample" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/concurent_future.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/collectionsSample/collection_overview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +249,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="process_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="py_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudyExample" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,12 +257,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/test_request" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/process_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/test_request/py_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_deque" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudyExample" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/collectionsSample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/collectionsSample/python_deque.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,35 +315,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="thread_semaphore" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonStudyExample" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonBase/advancePyton/chapter11/thread_semaphore.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.py_request" />
+        <item itemvalue="Python.python_deque" />
+        <item itemvalue="Python.collection_overview" />
         <item itemvalue="Python.pythontimes" />
         <item itemvalue="Python.file_01" />
-        <item itemvalue="Python.process_test" />
-        <item itemvalue="Python.concurent_future" />
-        <item itemvalue="Python.thread_semaphore" />
       </list>
     </recent_temporary>
   </component>
@@ -306,22 +337,22 @@
       <updated>1559224412260</updated>
       <workItem from="1559224413382" duration="49943000" />
       <workItem from="1561639489189" duration="5367000" />
-      <workItem from="1561772964065" duration="16605000" />
+      <workItem from="1561772964065" duration="21238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71915000" />
+    <option name="totallyTimeSpent" value="76548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1420" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.1981004" visible="true" weight="0.20833333" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.1981004" weight="0.20833333" />
       <window_info id="Structure" order="2" sideWeight="0.8018996" side_tool="true" weight="0.1851585" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.46132973" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.46268657" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32971507" />
@@ -345,7 +376,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.1981004" visible="true" weight="0.20833333" />
       <window_info id="Structure" order="2" sideWeight="0.8018996" side_tool="true" weight="0.1851585" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.46132973" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.46268657" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32971507" />
@@ -402,6 +433,7 @@
     <SUITE FILE_PATH="coverage/PythonStudyExample$socket_http.coverage" NAME="socket_http Coverage Results" MODIFIED="1561773433167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter10" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$BaseStruct.coverage" NAME="BaseStruct Coverage Results" MODIFIED="1559400881462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$Advance.coverage" NAME="Advance Coverage Results" MODIFIED="1559656402912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct/testenum" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$py_request.coverage" NAME="py_request Coverage Results" MODIFIED="1562082302660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/test_request" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$thread_semaphore.coverage" NAME="thread_semaphore Coverage Results" MODIFIED="1561825911039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$inheritClass.coverage" NAME="inheritClass Coverage Results" MODIFIED="1559576031768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct/classpackage" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$python_thread.coverage" NAME="python_thread Coverage Results" MODIFIED="1561775397370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
@@ -416,6 +448,7 @@
     <SUITE FILE_PATH="coverage/PythonStudyExample$async_io1.coverage" NAME="async_io1 Coverage Results" MODIFIED="1560788223106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter13" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$aysn_io.coverage" NAME="aysn_io Coverage Results" MODIFIED="1560690167081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter12" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$pythontimes.coverage" NAME="pythontimes Coverage Results" MODIFIED="1561908034595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/PythonTime" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$python_deque.coverage" NAME="python_deque Coverage Results" MODIFIED="1561997360960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/collectionsSample" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$thread_condition.coverage" NAME="thread_condition Coverage Results" MODIFIED="1561780069209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$genericIterator.coverage" NAME="genericIterator Coverage Results" MODIFIED="1559662031562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/datastruct" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$list_gen.coverage" NAME="list_gen Coverage Results" MODIFIED="1560261971250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton" />
@@ -436,78 +469,11 @@
     <SUITE FILE_PATH="coverage/PythonStudyExample$new_init.coverage" NAME="new_init Coverage Results" MODIFIED="1560524895754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter8" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$thread_Queue_test_04.coverage" NAME="thread_Queue_test_04 Coverage Results" MODIFIED="1561778581961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$ServiceSocketSample.coverage" NAME="ServiceSocketSample Coverage Results" MODIFIED="1561646243543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter10" />
+    <SUITE FILE_PATH="coverage/PythonStudyExample$collection_overview.coverage" NAME="collection_overview Coverage Results" MODIFIED="1561997344490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/collectionsSample" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$coroutine_test.coverage" NAME="coroutine_test Coverage Results" MODIFIED="1560782071682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter12" />
     <SUITE FILE_PATH="coverage/PythonStudyExample$thread_sync.coverage" NAME="thread_sync Coverage Results" MODIFIED="1561779937085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonBase/advancePyton/chapter11" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_functools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="38" column="11" lean-forward="true" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/functools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="287" column="34" lean-forward="true" selection-start-line="287" selection-start-column="34" selection-end-line="287" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1845636981/_socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="254" column="4" selection-start-line="254" selection-start-column="4" selection-end-line="254" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter01/deepcopy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="526" column="64" selection-start-line="526" selection-start-column="60" selection-end-line="526" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#1131#1140#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter10/ServiceSocketSample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter10/clientSocket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="4" selection-start-line="4" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythonBase/advancePyton/chapter10/HttpsocketTcp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -522,16 +488,6 @@
           <folding>
             <element signature="e#26#39#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="113">
-            <caret line="138" column="6" selection-start-line="138" selection-start-column="6" selection-end-line="138" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1637,20 +1593,296 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/abc.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="191" column="50" selection-start-line="191" selection-start-column="50" selection-end-line="191" selection-end-column="50" />
+          <folding>
+            <element signature="e#26#36#0" expanded="true" />
+            <element signature="e#793#895#0" />
+            <element signature="e#931#1101#0" />
+            <element signature="e#1280#1481#0" />
+            <element signature="e#1478#1481#0" />
+            <element signature="e#1519#1700#0" />
+            <element signature="e#1697#1700#0" />
+            <element signature="e#1711#1860#0" />
+            <element signature="e#1857#1860#0" />
+            <element signature="e#1960#2540#0" />
+            <element signature="e#2069#2072#0" />
+            <element signature="e#2103#2106#0" />
+            <element signature="e#2151#2154#0" />
+            <element signature="e#2211#2214#0" />
+            <element signature="e#2260#2263#0" />
+            <element signature="e#2305#2308#0" />
+            <element signature="e#2358#2361#0" />
+            <element signature="e#2408#2411#0" />
+            <element signature="e#2537#2540#0" />
+            <element signature="e#2635#4117#0" />
+            <element signature="e#2703#2706#0" />
+            <element signature="e#2752#2755#0" />
+            <element signature="e#2801#2804#0" />
+            <element signature="e#2850#2853#0" />
+            <element signature="e#2899#2902#0" />
+            <element signature="e#2953#2956#0" />
+            <element signature="e#2987#2990#0" />
+            <element signature="e#3046#3049#0" />
+            <element signature="e#3124#3127#0" />
+            <element signature="e#3192#3195#0" />
+            <element signature="e#3272#3275#0" />
+            <element signature="e#3333#3336#0" />
+            <element signature="e#3407#3410#0" />
+            <element signature="e#3482#3485#0" />
+            <element signature="e#3543#3546#0" />
+            <element signature="e#3605#3608#0" />
+            <element signature="e#3649#3652#0" />
+            <element signature="e#3701#3704#0" />
+            <element signature="e#3744#3747#0" />
+            <element signature="e#3788#3791#0" />
+            <element signature="e#3821#3824#0" />
+            <element signature="e#3871#3874#0" />
+            <element signature="e#3913#3916#0" />
+            <element signature="e#3967#3970#0" />
+            <element signature="e#4002#4005#0" />
+            <element signature="e#4059#4062#0" />
+            <element signature="e#4114#4117#0" />
+            <element signature="e#4214#8531#0" />
+            <element signature="e#4255#4258#0" />
+            <element signature="e#4289#4292#0" />
+            <element signature="e#4327#4330#0" />
+            <element signature="e#4369#4372#0" />
+            <element signature="e#4456#4459#0" />
+            <element signature="e#4522#4525#0" />
+            <element signature="e#4588#4591#0" />
+            <element signature="e#4654#4657#0" />
+            <element signature="e#4720#4723#0" />
+            <element signature="e#4774#4777#0" />
+            <element signature="e#4808#4811#0" />
+            <element signature="e#4969#4988#0" />
+            <element signature="e#5057#5060#0" />
+            <element signature="e#5122#5125#0" />
+            <element signature="e#5190#5193#0" />
+            <element signature="e#5250#5253#0" />
+            <element signature="e#5347#5350#0" />
+            <element signature="e#5427#5430#0" />
+            <element signature="e#5522#5525#0" />
+            <element signature="e#5638#5641#0" />
+            <element signature="e#5745#5748#0" />
+            <element signature="e#5825#5828#0" />
+            <element signature="e#5919#5922#0" />
+            <element signature="e#5977#5980#0" />
+            <element signature="e#6081#6084#0" />
+            <element signature="e#6157#6160#0" />
+            <element signature="e#6192#6195#0" />
+            <element signature="e#6227#6230#0" />
+            <element signature="e#6264#6267#0" />
+            <element signature="e#6299#6302#0" />
+            <element signature="e#6339#6342#0" />
+            <element signature="e#6374#6377#0" />
+            <element signature="e#6411#6414#0" />
+            <element signature="e#6489#6492#0" />
+            <element signature="e#6524#6527#0" />
+            <element signature="e#6559#6562#0" />
+            <element signature="e#6594#6597#0" />
+            <element signature="e#6645#6648#0" />
+            <element signature="e#6724#6727#0" />
+            <element signature="e#6779#6782#0" />
+            <element signature="e#6863#6866#0" />
+            <element signature="e#6910#7180#0" />
+            <element signature="e#7049#7052#0" />
+            <element signature="e#7177#7180#0" />
+            <element signature="e#7240#7243#0" />
+            <element signature="e#7376#7379#0" />
+            <element signature="e#7471#7474#0" />
+            <element signature="e#7567#7570#0" />
+            <element signature="e#7646#7649#0" />
+            <element signature="e#7710#7713#0" />
+            <element signature="e#7794#7797#0" />
+            <element signature="e#7879#7882#0" />
+            <element signature="e#7965#7968#0" />
+            <element signature="e#8030#8033#0" />
+            <element signature="e#8139#8142#0" />
+            <element signature="e#8222#8225#0" />
+            <element signature="e#8280#8283#0" />
+            <element signature="e#8335#8338#0" />
+            <element signature="e#8406#8409#0" />
+            <element signature="e#8461#8464#0" />
+            <element signature="e#8528#8531#0" />
+            <element signature="e#8534#8630#0" />
+            <element signature="e#8809#8812#0" />
+            <element signature="e#8911#8914#0" />
+            <element signature="e#8952#8955#0" />
+            <element signature="e#8997#9000#0" />
+            <element signature="e#9030#9033#0" />
+            <element signature="e#9106#9109#0" />
+            <element signature="e#9145#9148#0" />
+            <element signature="e#9203#9206#0" />
+            <element signature="e#9265#9268#0" />
+            <element signature="e#9314#9317#0" />
+            <element signature="e#9388#9391#0" />
+            <element signature="e#9431#9434#0" />
+            <element signature="e#9464#9467#0" />
+            <element signature="e#9509#9512#0" />
+            <element signature="e#9544#9547#0" />
+            <element signature="e#9586#9589#0" />
+            <element signature="e#9621#9624#0" />
+            <element signature="e#9699#9702#0" />
+            <element signature="e#9734#9737#0" />
+            <element signature="e#9743#9808#0" />
+            <element signature="e#9932#9935#0" />
+            <element signature="e#10018#10033#0" />
+            <element signature="e#10098#10101#0" />
+            <element signature="e#10186#10201#0" />
+            <element signature="e#10259#10262#0" />
+            <element signature="e#10330#10345#0" />
+            <element signature="e#10394#10397#0" />
+            <element signature="e#10442#10445#0" />
+            <element signature="e#10490#10651#0" />
+            <element signature="e#10540#10543#0" />
+            <element signature="e#10596#10599#0" />
+            <element signature="e#10648#10651#0" />
+            <element signature="e#10749#12443#0" />
+            <element signature="e#10806#10809#0" />
+            <element signature="e#10883#10886#0" />
+            <element signature="e#10957#10960#0" />
+            <element signature="e#11005#11008#0" />
+            <element signature="e#11049#11052#0" />
+            <element signature="e#11129#11132#0" />
+            <element signature="e#11209#11212#0" />
+            <element signature="e#11283#11286#0" />
+            <element signature="e#11292#11358#0" />
+            <element signature="e#11679#11682#0" />
+            <element signature="e#11794#11797#0" />
+            <element signature="e#11857#11860#0" />
+            <element signature="e#11920#11923#0" />
+            <element signature="e#11982#11985#0" />
+            <element signature="e#12044#12047#0" />
+            <element signature="e#12105#12108#0" />
+            <element signature="e#12147#12150#0" />
+            <element signature="e#12189#12192#0" />
+            <element signature="e#12252#12255#0" />
+            <element signature="e#12315#12318#0" />
+            <element signature="e#12378#12381#0" />
+            <element signature="e#12440#12443#0" />
+            <element signature="e#12570#12614#0" />
+            <element signature="e#12611#12614#0" />
+            <element signature="e#12698#12754#0" />
+            <element signature="e#12751#12754#0" />
+            <element signature="e#12823#12867#0" />
+            <element signature="e#12864#12867#0" />
+            <element signature="e#12944#13345#0" />
+            <element signature="e#13000#13003#0" />
+            <element signature="e#13067#13070#0" />
+            <element signature="e#13123#13126#0" />
+            <element signature="e#13172#13175#0" />
+            <element signature="e#13225#13228#0" />
+            <element signature="e#13285#13288#0" />
+            <element signature="e#13342#13345#0" />
+            <element signature="e#13466#14529#0" />
+            <element signature="e#13587#13590#0" />
+            <element signature="e#13683#13686#0" />
+            <element signature="e#13794#13797#0" />
+            <element signature="e#13931#13934#0" />
+            <element signature="e#14083#14086#0" />
+            <element signature="e#14233#14236#0" />
+            <element signature="e#14398#14401#0" />
+            <element signature="e#14446#14449#0" />
+            <element signature="e#14526#14529#0" />
+            <element signature="e#14596#15105#0" />
+            <element signature="e#14650#14653#0" />
+            <element signature="e#14716#14719#0" />
+            <element signature="e#14803#14806#0" />
+            <element signature="e#14874#14877#0" />
+            <element signature="e#14930#14933#0" />
+            <element signature="e#14977#14980#0" />
+            <element signature="e#15023#15026#0" />
+            <element signature="e#15068#15071#0" />
+            <element signature="e#15102#15105#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/collectionsSample/collection_overview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/collectionsSample/python_deque.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/collectionsSample/python_counter.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pythonBase/collectionsSample/collections.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="19">
-            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <first_editor relative-caret-position="342">
+            <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/urllib3/exceptions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        <state relative-caret-position="190">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/test_request/py_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/requests/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonBase/test_request/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="232">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
